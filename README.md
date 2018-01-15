@@ -9,3 +9,10 @@ https://cozyplanes.github.io/quickdocs
 - Lua Cheetsheet
 - C# Basic (Short)
 - C# Advanced (Long)
+
+### Portable Documentation Download
+Available both in HTML and PDF
+
+See details here:
+https://github.com/cozyplanes/quickdocs/releases
+
