@@ -1,7 +1,9 @@
 # QuickDocs
 Simple and straightforward portable documentation for major languages
+Script by Derek Banas and cozyplanes
 
 https://cozyplanes.github.io/quickdocs
+https://bit.ly/quickdocs
 
 ### Current Documentation List
 
@@ -9,10 +11,11 @@ https://cozyplanes.github.io/quickdocs
 - Lua Cheetsheet
 - C# Basic (Short)
 - C# Advanced (Long)
+- Python 3.x Basic (Short)
 
 ### Portable Documentation Download
 Available both in HTML and PDF
 
-See details here:
+Download here:
 https://github.com/cozyplanes/quickdocs/releases
 
